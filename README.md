@@ -40,9 +40,4 @@ Welcome to the Snake Game! This is a classic rendition of the timeless snake gam
 #### Contributing:
 Feel free to fork this repository, make improvements, and submit a pull request. Contributions are welcome!
 
-#### License:
-This project is licensed under the MIT License.
-
----
-
 Enjoy the game and happy coding! If you encounter any issues or have suggestions, please open an issue on GitHub.
